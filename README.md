@@ -1,5 +1,4 @@
 ### SeyedAli Hosseini
-
 ![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=plastic&color=blueviolet)
 [![image](https://user-images.githubusercontent.com/113532571/209448722-11b0c2d7-35dd-4972-a23b-6922bff23075.png)](https://www.linkedin.com/in/hosseini-seyedali/)
 ---
@@ -10,9 +9,7 @@
 ![image](https://user-images.githubusercontent.com/113532571/209449486-ab27c080-2773-4917-8ed9-fce339b3ece7.png)
 ![image](https://user-images.githubusercontent.com/113532571/209449466-66e1c4f0-0039-4448-bdf2-f3bef0b9297a.png)
 ---
-
-- 🔭 I’m currently working on Research Group for Surgical Simulator Linz `(ReSSL)`
+- 🔭 I’m currently work at Research Group for Surgical Simulator Linz `(ReSSL)`
 - 🌱 I’m currently studing Medical Engineering
-- 🤔 I’m looking for help to be a Data Scientist
-- 💬 Help me to become a R&D member
+- 💬 Help me to become a R&D member | Data Scientist
 - 📫 How to reach me: Hosseini.Seyedali@outlook.com
