@@ -11,8 +11,8 @@
 ![image](https://user-images.githubusercontent.com/113532571/209449466-66e1c4f0-0039-4448-bdf2-f3bef0b9297a.png)
 ---
 
-- 🔭 I’m currently working on Research Group for Surgical Simulator Linz `(ReSSL)`,
-- 🌱 I’m currently studing Medical Engineering,
-- 🤔 I’m looking for help to be a Data Scientist,
-- 💬 Help me to become a R&D member, 
+- 🔭 I’m currently working on Research Group for Surgical Simulator Linz `(ReSSL)`
+- 🌱 I’m currently studing Medical Engineering
+- 🤔 I’m looking for help to be a Data Scientist
+- 💬 Help me to become a R&D member
 - 📫 How to reach me: Hosseini.Seyedali@outlook.com
