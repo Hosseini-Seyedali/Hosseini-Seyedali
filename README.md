@@ -1,8 +1,7 @@
-### SeyedAli Hosseini 👋
+### SeyedAli Hosseini
 
 ![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=plastic&color=blueviolet)
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
-
+[![image](https://user-images.githubusercontent.com/113532571/209448722-11b0c2d7-35dd-4972-a23b-6922bff23075.png)](https://www.linkedin.com/in/hosseini-seyedali/)
 
 - 🔭 I’m currently working on Research Group for Surgical Simulator Linz `(ReSSL)`,
 - 🌱 I’m currently studing Medical Engineering,
