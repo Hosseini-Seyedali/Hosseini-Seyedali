@@ -17,4 +17,3 @@
 - 🔭 Scientific Assistant at Research Group for Surgical Simulator Linz `(ReSSL)`
 - 🎓 Medical Engineering
 - 💬 Help me to become a R&D member | Data Scientist
-- 📫 How to reach me: Hosseini.Seyedali@outlook.com
