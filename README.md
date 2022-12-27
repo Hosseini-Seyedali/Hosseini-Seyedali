@@ -1,7 +1,7 @@
 ### SeyedAli Hosseini
 ###### 👨🏻‍💻 Scientific Assistant at Research Group for Surgical Simulator Linz `(ReSSL)`
 ###### 🎓 Medical Engineering
-###### 💬 Help me to become a R&D member | Data Scientist
+###### 💬 Help me to become an R&D member | Data Scientist
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
 [![](https://shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hosseini-seyedali/)
 ##### Languages | Scripting
