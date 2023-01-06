@@ -1,7 +1,6 @@
-### SeyedAli Hosseini
+### SeyedAli Hosseini | Scientific Assistant 
 ###### 👨🏻‍💻 Scientific Assistant at Research Group for Surgical Simulator Linz `(ReSSL)`
 ###### 🎓 Medical Engineering
-###### 💬 Help me to become an R&D member | Data Scientist
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
 [![](https://shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hosseini-seyedali/)
 ##### Languages | Scripting
@@ -21,5 +20,5 @@
 ##### Tools
 [![image](https://shields.io/badge/MySQL-F29111?logo=mysql&style=flat)](https://www.mysql.com/)
 [![image](https://shields.io/badge/Microsoft_Azure-blue?logo=microsoftazure&style=plastic)](https://azure.microsoft.com/en-us/)
-[![image](https://shields.io/badge/VSCode-0077b5?logo=visualstudiocode&style=plastic)](https://code.visualstudio.com/)
 [![image](https://shields.io/badge/Jupyter-606060?logo=jupyter&style=plastic)](https://jupyter.org/)
+[![image](https://shields.io/badge/VSCode-0077b5?logo=visualstudiocode&style=plastic)](https://code.visualstudio.com/)
