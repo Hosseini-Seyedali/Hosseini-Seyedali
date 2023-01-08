@@ -8,6 +8,7 @@
 [![image](https://shields.io/badge/Machine_Learning-306998?logo=python&style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
 [![image](https://shields.io/badge/Git-3E2C00?logo=git&style=flat)](https://git-scm.com/)
 [![image](https://shields.io/badge/SQL-F29111?logo=mysql&style=flat)](https://en.wikipedia.org/wiki/SQL)
+[![image](https://shields.io/badge/NoSQL-003300?logo=mongodb&style=plastic)](https://www.mongodb.com/nosql-explained)
 [![image](https://shields.io/badge/Linux-000000?logo=linux&style=flat)](https://www.linux.org/)
 ##### Libraries
 [![image](https://shields.io/badge/Numpy-022F4D?logo=numpy&style=plastic)](https://numpy.org/)
@@ -19,6 +20,7 @@
 [![image](https://shields.io/badge/Seaborn-66B2FF?logo=pandas&style=plastic)](https://seaborn.pydata.org/)
 ##### Tools
 [![image](https://shields.io/badge/MySQL-F29111?logo=mysql&style=flat)](https://www.mysql.com/)
+[![image](https://shields.io/badge/MongoDB-003300?logo=mongodb&style=plastic)](https://www.mongodb.com/)
 [![image](https://shields.io/badge/Microsoft_Azure-blue?logo=microsoftazure&style=plastic)](https://azure.microsoft.com/en-us/)
 [![image](https://shields.io/badge/Jupyter-606060?logo=jupyter&style=plastic)](https://jupyter.org/)
 [![image](https://shields.io/badge/VSCode-0077b5?logo=visualstudiocode&style=plastic)](https://code.visualstudio.com/)
