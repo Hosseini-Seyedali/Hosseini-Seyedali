@@ -18,7 +18,7 @@
 [![image](https://shields.io/badge/Plotly-660066?logo=plotly&style=plastic)](https://plotly.com/)
 [![image](https://shields.io/badge/Scikit_Kinematics-E6D704?logo=scikitlearn&style=plastic)](http://work.thaslwanter.at/skinematics/html/)
 [![image](https://shields.io/badge/Seaborn-66B2FF?logo=pandas&style=plastic)](https://seaborn.pydata.org/)
-##### Tools
+##### Frameworks | Tools
 [![image](https://shields.io/badge/MySQL-F29111?logo=mysql&style=flat)](https://www.mysql.com/)
 [![image](https://shields.io/badge/MongoDB-003300?logo=mongodb&style=plastic)](https://www.mongodb.com/)
 [![image](https://shields.io/badge/Microsoft_Azure-blue?logo=microsoftazure&style=plastic)](https://azure.microsoft.com/en-us/)
