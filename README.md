@@ -3,12 +3,14 @@
 ###### 🎓 Medical Engineering
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
 [![](https://shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hosseini-seyedali/)
-[![image](https://shields.io/badge/PDF-CV-660066?logo=plotly&style=plastic)](https://drive.google.com/file/d/1F5EuKTpD6IXqQDWpAl8ueVe62R5KvVsd/view)
+[![image](https://shields.io/badge/PDF-CV-660066?logo=plotly&style=plastic)](https://drive.google.com/file/d/1F5EuKTpD6IXqQDWpAl8ueVe62R5KvVsd/view?usp=share_link)
 ##### Languages | Scripting
 [![image](https://shields.io/badge/Python-FFD43B?logo=python&style=flat)](https://www.python.org/)
 [![image](https://shields.io/badge/Machine_Learning-306998?logo=python&style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
 [![image](https://shields.io/badge/Git-3E2C00?logo=git&style=flat)](https://git-scm.com/)
 [![image](https://shields.io/badge/SQL-F29111?logo=mysql&style=flat)](https://en.wikipedia.org/wiki/SQL)
+[![image](https://shields.io/badge/HTML5-FFFFFF?logo=html5&style=flat)](https://en.wikipedia.org/wiki/HTML5)
+[![image](https://shields.io/badge/CSS3-0000FF?logo=css3&style=flat)](https://en.wikipedia.org/wiki/CSS)
 [![image](https://shields.io/badge/Linux-000000?logo=linux&style=flat)](https://www.linux.org/)
 ##### Libraries
 [![image](https://shields.io/badge/Numpy-022F4D?logo=numpy&style=plastic)](https://numpy.org/)
