@@ -3,7 +3,7 @@
 ###### 🎓 Medical Engineering
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
 [![](https://shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hosseini-seyedali/)
-[![image](https://shields.io/badge/PDF-CV-660066?logo=plotly&style=plastic)](https://drive.google.com/file/d/14PkJ6nDBXgRTwRF3K-t70UWGsp6PScSZ/view?usp=share_link)
+[![image](https://shields.io/badge/PDF-CV-660066?logo=plotly&style=plastic)](https://drive.google.com/file/d/1oJh2XMqQkYuFYOxxUt0Bfh_bWm4SG57F/view?usp=share_link)
 ##### Languages | Scripting
 [![image](https://shields.io/badge/Python-FFD43B?logo=python&style=flat)](https://www.python.org/)
 [![image](https://shields.io/badge/Machine_Learning-306998?logo=python&style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
