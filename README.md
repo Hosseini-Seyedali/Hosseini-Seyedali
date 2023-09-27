@@ -1,5 +1,5 @@
-### SeyedAli Hosseini | Scientific Assistant 
-###### 👨🏻‍💻 Scientific Assistant at Research Group for Surgical Simulator Linz `(ReSSL)`
+### SeyedAli Hosseini | Machine Learning Engineer
+###### 👨🏻‍💻 GE Healthcare 
 ###### 🎓 Medical Engineering
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
 [![](https://shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=flat)](https://www.linkedin.com/in/hosseini-seyedali/)
