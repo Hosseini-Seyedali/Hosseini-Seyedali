@@ -1,4 +1,4 @@
-### SeyedAli Hosseini | Machine Learning Engineer
+### SeyedAli Hosseini | DATA SCIENTIST
 ###### 👨🏻‍💻 GE Healthcare 
 ###### 🎓 Medical Engineering
 [![](https://komarev.com/ghpvc/?username=Hosseini-Seyedali&style=flat&color=000000)](https://github.com/Hosseini-Seyedali)
